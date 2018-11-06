@@ -3,19 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: casyalex's blog
+title: casyalex's blog || 活在当下
 subtitle:
 description:
 keywords:
 author: Alex Tse
-language:
+language: simpefied chinese
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://casyalex.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year-:month-:day-:title.html
 permalink_defaults:
 
 # Directory
