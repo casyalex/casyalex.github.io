@@ -1,7 +1,8 @@
 ---
 title: 别再用for循环了！拥抱JS高阶函数让代码更优雅（一）filter
 date: 2018-12-03 10:32:39
-tags: 技术
+category: 技术
+tags: 前端
 ---
 两年前kaivon老师说，重复做一件事，第一时间应该想到用for-loop，比如最简单的数组求和。
 ```javascript
